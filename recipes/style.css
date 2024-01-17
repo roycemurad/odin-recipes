@@ -1,0 +1,12 @@
+.approve {
+    color: white;
+    background-color: green;
+}
+
+.reject {
+    color: white;
+    background-color: red;
+}
+ul {
+    font-family: "Garamond", sans-serif;
+}
